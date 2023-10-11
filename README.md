@@ -19,6 +19,13 @@ This project contains Python scripts for image inpainting and image quality eval
 
 ## Image Inpainting
 
+### Requirements 
+The following libraries are required to run the provided scripts:
+```
+NumPy
+OpenCV (Python)
+```
+
 ### Usage
 
 To use the image inpainting script:
